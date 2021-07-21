@@ -1,4 +1,4 @@
-# <David Szamek | Portfolio>
+# David Szamek | Portfolio
 ## Description
 
 This portfolio demonstrates the skills learnt while completing the Fullstack Web Development Bootcamp at Monash University powered by Trinity. 
