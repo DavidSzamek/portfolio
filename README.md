@@ -23,6 +23,7 @@ It runs dynamically in the browser and is powered using HTML, CSS & Bootstrap.
 ## Application Screenshot
 The following image shows the web application's appearance and functionality:
 
+![Screen Shot 2021-07-21 at 12 08 43 pm](https://user-images.githubusercontent.com/83954907/126419438-dd8b9d27-83c0-4b6b-ad10-2919eab2d758.png)
 
 
 
