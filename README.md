@@ -11,7 +11,16 @@ It runs dynamically in the browser and is powered using HTML, CSS & Bootstrap.
 
 - HTML
 - CSS
-- Bootstrap
+- JavaScript
+- Express.js
+- Sequelize
+- MySQL
+- Bcrpyt
+- Dotenv
+- Handlebars
+- Canvas HTML
+- Nes.css
+- Heroku
 
 ## URLs
 
